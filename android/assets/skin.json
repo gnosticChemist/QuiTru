@@ -1,0 +1,28 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	ubuntu: {
+		file: ubuntu.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	RGBA_170_170_170_255: {
+		r: 0.66666675
+		g: 0.66666675
+		b: 0.66666675
+		a: 1
+	}
+	White: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: {
+		font: ubuntu
+		fontColor: White
+		up: Button
+	}
+}
+}

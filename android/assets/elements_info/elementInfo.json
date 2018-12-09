@@ -1,0 +1,194 @@
+[
+{n:1,c:Hidrogênio,d:"
+  - Combustivel de foguetes;
+  - Ácidos;
+  - Compostos Orgânicos;
+  - Hidrogengação de óleos vegetais."},
+{n:2,c:Hélio,d:"
+  - Formação de atmosfera inerte (Pouca reatividade);
+  - Lasers;
+  - Dirigíveis e balões;
+  - Refrigeração.
+"},
+{n:3,c:Lítio,d:"
+  - Baterias;
+  - Vidros, para diminuir a dilatação;
+  - Medicamentos psiquiátricos."},
+{n:4,c:Berílio,d:"
+  - Industrria aeroespacial, por ser leve, resistente e sofre pouca dilatação;
+  - Giroscópios, alto-falantes e outros eletrônicos de alta qualidade."},
+{n:6,c:Carbono,d:"
+  - Carvão, grafite, diamante e petróleo;
+  - Compostos orgânicos;
+  - Diversos alótropos (Nanotubo, grafeno, fulereno...)."},
+{n:7,c:Nitrogênio,d:"
+  - Refrigeração (Em forma líquida);
+  - Lâmpadas incandescentes, para aumentar a vida útil do equipamento;
+  - Desaceleração de processos de oxidação;
+  - Compostos orgânicos nitrogenados (Amidas, aminas...).
+"},
+{n:8,c:Oxigênio,d:"
+  - Respiração celular;
+  - Oxidações;
+  - Produção de aço;
+  - Gás Oxigênio e gás Ozônio;
+  - Combustões."},
+{n:9,c:Flúor,d:"
+  - Creme dental;
+  - Tratamento de água;
+  - Teflon, há flúor presente em seu polímero;
+  - Fungicidas e herbicidas."},
+{n:10,c:Neônio,d:"
+  - Iluminação por lâmpadas neon;
+  - Refrigeração crigogênica."},
+{n:11,c:Sódio,d:"
+  - Sal de cozinha (NaCl);
+  - Lâmpadas de vapor de sódio;
+  - Produção de sabões por meio de reações de saponificação."},
+{n:12,c:Magnésio,d:"
+  - Pirotecnia e sinalizadores, gera brilho branco intenso;
+  - Antigos flashes fotográficos,
+  - Metal de sacrifícios,
+  - Medicamentos (Hidróxido, cloreto, culfato e nitrato de magnésio)."},
+{n:22,c:Titânio,d:"
+  - Substituição de articulações e implantes dentários;
+  - Industria aeroespacial, pela leveza, resistencia e suporte a altas temperaturas;
+  - Equipamentos de dessalinização, geração de energia e estocagem de material radiotivo, por sua alta resistência a corrosão;
+  - Estruturas arquitetônicas."},
+{n:25,c:Manganês,d:"
+  - Ligas metálicas, para aumentar a resistencia a corrosão;
+  - Pilhas do tipo zinco-carbono ou alcalinas (Dióxido de manganês)."},
+{n:26,c:Ferro,d:"
+  - Metalurgia;
+  - Ligas metálicas, principalmento aço;
+  - Tratamento de água e esgoto (Cloreto de ferro);
+  - Suplementos alimentares em tratamento de anemia."},
+{n:28,c:Níquel,d:"
+  - Recobrimento de outros metais para retardar a corrosão;
+  - Baterisa níquel-cádmio;
+  - Fabricação de moedas."},
+{n:29,c:Cobre,d:"
+  - Fabricação de moedas e medalhas;
+  - Fios elétricos;
+  - Ligas metálicas, principalmente bronze e latão.
+  - Óxido de zinco para fabricação de tintas, borrachas, plásticos, cosméticos, baterias e pigmentos;
+  - Medicamentos e suplementos alimentares.
+"},
+{n:30,c:Zinco,d:"
+  - Fabricação de moedas e medalhas;
+  - Óxido de zinco para fabricação de tintas, borrachas, plásticos, cosméticos, baterias e pigmentos;
+  - Medicamentos e suplementos alimentares.
+"},
+{n:13,c:Alumínio,d:"
+  - Utensílios de cozinha;
+  - Latas e folhas de alumínio;
+  - Arquitetura e construção cívil;
+  - Ligas metálicas, geralmente para se obter leveza"},
+{n:14,c:Silício,d:"
+  - Principal componente do vidro;
+  - Implantes médicos (Silicone);
+  - Lubrificante;
+  - Traansistores, painéis fotovoltáicos e outros dispositivos eletrônicos de estado sólido."},
+{n:15,c:Fósforo,d:"
+  - Pirotecnia;
+  - Lixas de caixas de fósforos;
+  - Fertilizantes e defensivos agrícolas."},
+{n:16,c:Enxofre,d:"
+  - Defensivos agrícolas;
+  - Produção de frutas secas;
+  - Pólvora;
+  - Ácido sulfúrico."},
+{n:17,c:Cloro,d:"
+  - Tratamento de água para consumo humano;
+  - Fabricação de PVC;
+  - Produção de papel, têxteis, corantes, medicamentos, inseticidas e solventes."},
+{n:18,c:Argônio,d:"
+  - Lâmpadas e equipamentos de iluminação;
+  - Formação de ambiente inerte."},
+{n:36,c:Criptônio,d:"
+  - Preenchimento de lâmpadas especiais para iluminação;
+  - Lasers;
+  - Aplicações científicas, como estuda de física de partículas."},
+{n:19,c:Potássio,d:"
+  - Fertilizantes;
+  - Fogos de artificío;
+  - Produção de detergentes."},
+{n:20,c:Cálcio,d:"
+  - Fabricação de cimento;
+  - Ossos, dentes e conchas;
+  - Agente redutor na preparação de tório e urânio."},
+{n:37,c:Rubídio,d:"
+  - Fogos de artifício, dá coloração púrpura;
+  - Vidros especiais;
+  - Componentes de foto células;
+  - Relógicos atómicos com potencial aplicação em GPS."},
+{n:38,c:Estrôncio,d:"
+  - Televisão de tubo;
+  - Fogos de artíficio, dá coloração avermelhada;
+  - Imãs do tipo ferrita."},
+{n:47,c:Prata,d:"
+  - Contatos elétricos;
+  - Cunhagem de moeda;
+  - Espelhos;
+  - Fabricação de circuitos impressos."},
+{n:50,c:Estanho,d:"
+  - Soldagem de componentes eletrônicos;
+  - Recobrimento de metais para previnir desgaste e corrosão."},
+{n:53,c:Iodo,d:"
+  - Adionado no sal de cozinha para evitar bócio;
+  - Tintas de impressão, corantes e pigmentos;
+  - Desinfetantes;
+  - Filtros polarizadores para telas LCD."},
+{n:54,c:Xenônio,d:"
+  - Lâmpadas de flash, de esterelização e de bronzamento;
+  - Gás em motores iônicos espaciais;
+  - Medicinal, pode ser neuroprotetor, cardioprotetor e anestésico"},
+{n:55,c:Césio,d:"
+  - Relógios atômicos com altíssima precisão;
+  - Lampadas infravermelho;
+  - Celulas fotoelétricas e tubos à vácuo;
+  - Monitoramento de radiação."},
+{n:74,c:Tungstênio,d:"
+  - Filamentos de lâmpadas incandescentes;
+  - Alvos para raios-X;
+  - Fornalhas elétricas."},
+{n:78,c:Platina,d:"
+  - Joalheria;
+  - Discos rígidos para armazenar informações;
+  - Preenchimento de cavidades dentárias;
+  - Marcapassos cardíacos;
+  - Tratamentos quimioterápcos."},
+{n:79,c:Ouro,d:"
+  - Joalheria;
+  - Reserva monetária;
+  - Proteção de contatos elétricos;
+  - Equipamentos eletrônicos e chips."},
+{n:80,c:Mercúrio,d:"
+  - Barômetros e, antigamente, termômetros;
+  - Interruptor em equipamentos eletrônicos específicos;
+  - Pilhas, uso abandonado por ser tóxico."},
+{n:86,c:Radônio,d:"
+  - Previsão de abalos sísmicos;
+  - Possivel aplicação em terapias de combate ao câncer."},
+{n:87,c:Frâncio,d:"
+  Como possui alta instabilidade e tempo de meia-vida curto (22 minutos), ele não possui usos além de pesquisas."},
+{n:88,c:Rádio,d:"
+  - Tratamento de câncer de próstata, principalmete em caso de espalhamento para os osso;
+  - Antigamente, em produtos domésticos e tintas que brilham no escuro;
+  - Fonte de nêutrons;
+  - Radiografia industrial."},
+{n:92,c:Urânio,d:"
+  - Combustível nuclear;
+  - Raios X de alta energia;
+  - Bombas atômicas."},
+{n:94,c:Plutônio,d:"
+  - Fabricação de armas nucleares;
+  - Reatores nucleares;
+  - Geradores termoelétricos em radioisótopos."},
+{n:82,c:Chumbo,d:"
+  - Barreira de proteção contra radiotividade e raios-X;
+  - Munições;
+  - Inseticidas;
+  - Pesos de exercícios físicos;
+  - Tintas e tubulações, uso abondonado por causa da toxicidade."}
+]
